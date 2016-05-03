@@ -1,0 +1,3 @@
+tufte::tufte_html:
+  toc: TRUE
+  toc_depth: 2
