@@ -5,7 +5,7 @@
 #' date: "`r Sys.Date()`"
 #' output:
 #'   tufte::tufte_html
-#' bibliography: temp.bib
+#' bibliography: TiS.bib
 #' link-citations: yes
 #' ---
 #+ setup, include=FALSE
@@ -58,9 +58,17 @@ options(htmltools.dir.version = FALSE)
 #' 
 #' Although it might seem that this course will deliver a stinging criticism of statistiscs, the very opposite is true.
 #' These problems highlight the deep difficulty of the problems statistics attempts to solve and, if anything, the
-#' vital importance of achieving a deeper understanding of a discipline that is at the root of knowledge.    
+#' vital importance of achieving a deeper understanding of a discipline that is at the root of knowledge. We need
+#' to help our students find that delicate balance between gullibility and skepticism.  
+#' 
+#' It is encouraging that the popular media is showing increased sophistication in exploring statistical issues.
+#' See, for example, @Oliver2016. 
+#' 
+#'     
 #' 
 #' # Chapter 2: Causality
+#' 
+#' [Lies, Damned Lies And Statistics!: when Statistics seem to lie it's often because they're answering a different question.](Chapter_2_Lies_-_Damned_Lies.pdf)
 #' 
 #' This is a discussion of problems with the inference of causality from empirical information. 
 #' The discussion is intentionally informal because formality in discussions of causality
