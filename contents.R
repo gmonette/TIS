@@ -5,7 +5,7 @@
 #' date: "`r Sys.Date()`"
 #' output:
 #'   tufte::tufte_html
-#' bibliography: TiS.bib
+#' bibliography: TIS.bib
 #' link-citations: yes
 #' ---
 #+ setup, include=FALSE
